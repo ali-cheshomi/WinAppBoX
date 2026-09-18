@@ -1,7 +1,7 @@
 # WinAppBoX
 
 <p align="center">
-  <img src="assets/winappbox-logo-dark.png" alt="WinAppBoX Logo" width="220">
+  <img src="assets/winappbox-logo-ali-cheshomi-mrac.png" alt="WinAppBoX Logo" width="220">
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/License-Apache-yellow?style=for-the-badge" alt="License">
 </p>
 
+**[En version](https://github.com/ali-cheshomi/WinAppBoX)**
 ---
 
 ## معرفی
