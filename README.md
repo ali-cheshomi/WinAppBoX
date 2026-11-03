@@ -102,7 +102,7 @@ To add an application to WinAppBoX:
 3. The application will be added to the application list.
 4. Click the application icon to launch it.
 
-> Note: The maximum number of applications is limited to 25.
+> Note: The maximum number of applications is limited to 100.
 
 ### Reordering Applications
 
